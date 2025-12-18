@@ -1,16 +1,45 @@
-## Hi there 👋
+## Olá! Bem-vindo ao meu perfil 👋
 
-<!--
-**SrIgferreira/SrIgferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Ian Ferreira Persola**, um desenvolvedor apaixonado por tecnologia e inovação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+- 💻 Desenvolvedor Full Stack com experiência em várias tecnologias
+- 🎯 Focado em criar soluções escaláveis e de alto desempenho
+- 📚 Aprendizado contínuo é parte da minha rotina
+- 🌐 Interessado em contribuir para projetos de código aberto
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens:**
+- JavaScript/TypeScript
+- Python
+- SQL
+
+**Frontend:**
+- React
+- HTML5 & CSS3
+
+**Backend:**
+- Node.js
+- Banco de Dados
+
+**Ferramentas:**
+- Git & GitHub
+- VS Code
+- Docker
+
+### 📊 Estatísticas
+
+[![roadmap.sh](https://roadmap.sh/card/tall/69447305b023fc10b1357ce0?variant=dark)](https://roadmap.sh)
+
+### 📞 Entre em Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ian-ferreira-persola)
+- 📧 Aberto para conversas sobre projetos e oportunidades
+
+---
+
+**"O código é como a poesia — express ideias de forma clara e elegante"**
