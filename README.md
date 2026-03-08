@@ -16,10 +16,8 @@ Sou **Ian Ferreira Persola**, um desenvolvedor apaixonado por tecnologia e inova
 **Linguagens:**
 - JavaScript/TypeScript
 - Python
-- SQL
 
 **Frontend:**
-- React
 - HTML5 & CSS3
 
 **Backend:**
@@ -29,7 +27,6 @@ Sou **Ian Ferreira Persola**, um desenvolvedor apaixonado por tecnologia e inova
 **Ferramentas:**
 - Git & GitHub
 - VS Code
-- Docker
 
 ### 📊 Estatísticas
 
@@ -37,9 +34,7 @@ Sou **Ian Ferreira Persola**, um desenvolvedor apaixonado por tecnologia e inova
 
 ### 📞 Entre em Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ian-ferreira-persola)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sr-ian-ferreira/))
 - 📧 Aberto para conversas sobre projetos e oportunidades
 
 ---
-
-**"O código é como a poesia — express ideias de forma clara e elegante"**
