@@ -30,11 +30,11 @@ Sou **Ian Ferreira Persola**, um desenvolvedor apaixonado por tecnologia e inova
 
 ### 📊 Estatísticas
 
-[![roadmap.sh](https://roadmap.sh/card/tall/69447305b023fc10b1357ce0?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/python?s=69447305b023fc10b1357ce0)]
 
 ### 📞 Entre em Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sr-ian-ferreira/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/sr-ian-ferreira/)
 - 📧 Aberto para conversas sobre projetos e oportunidades
 
 ---
