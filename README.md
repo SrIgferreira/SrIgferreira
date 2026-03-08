@@ -30,7 +30,7 @@ Sou **Ian Ferreira Persola**, um desenvolvedor apaixonado por tecnologia e inova
 
 ### 📊 Estatísticas
 
-[![roadmap.sh]](https://roadmap.sh/python?s=69447305b023fc10b1357ce0)
+[![roadmap.sh][(https://roadmap.sh/python?s=69447305b023fc10b1357ce0)]
 
 ### 📞 Entre em Contato
 
