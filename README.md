@@ -21,8 +21,7 @@ Sou **Ian Ferreira Persola**, um desenvolvedor apaixonado por tecnologia e inova
 - HTML5 & CSS3
 
 **Backend:**
-- Node.js
-- Banco de Dados
+- 
 
 **Ferramentas:**
 - Git & GitHub
